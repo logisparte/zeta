@@ -1,5 +1,9 @@
 #!/bin/sh
 
+#
+# Colorizes 'ls' output with color-coded entries
+#
+
 # Load ls colors
 autoload -U colors && colors
 

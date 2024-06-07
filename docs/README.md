@@ -1,6 +1,6 @@
 # zeta
 
-`zsh` configuration template
+macOS `zsh` configuration template
 
 ## License
 

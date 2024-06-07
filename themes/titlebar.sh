@@ -1,6 +1,9 @@
 #!/bin/sh
 
-# Changes the titlebar to current host
+#
+# Changes the titlebar to the current hostname
+#
+
 update_titlebar() {
   printf '\e]1;%s\a' "$HOST"
 }

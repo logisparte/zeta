@@ -1,5 +1,10 @@
 #!/bin/sh
 
+#
+# Defines a minimalist terminal prompt that informs about command success, execution time,
+# current directory and git status
+#
+
 SUCCESS_COLOR="10"
 FAILURE_COLOR="9"
 DIRECTORY_COLOR="227"
