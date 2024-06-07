@@ -1,0 +1,6 @@
+.zcompcache
+.zcompdump*
+.zsh_history
+.zsh_sessions
+Brewfile.lock.json
+/variables/ignored.sh
